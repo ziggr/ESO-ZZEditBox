@@ -20,6 +20,7 @@ sub dirls($)
 # push @files, dirls('src');
 push @files, 'ZZEditBox.txt';
 push @files, 'ZZEditBox.lua';
+push @files, 'ZZEditBox.xml';
 print join("\n", @files) . "\n";
 
 @prev_mtime = ();

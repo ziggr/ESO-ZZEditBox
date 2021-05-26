@@ -6,4 +6,4 @@
 ## DependsOn: LibDebugLogger
 
 ZZEditBox.lua
-
+ZZEditBox.xml
