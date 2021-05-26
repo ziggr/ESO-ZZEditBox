@@ -1,0 +1,9 @@
+## Title: ZZEditBox
+## Author: ziggr
+## AddOnVersion: 070001
+## Last Updated: 2021-05-26
+## APIVersion: 100034 100035
+## DependsOn: LibDebugLogger
+
+ZZEditBox.lua
+
